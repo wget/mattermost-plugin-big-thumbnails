@@ -1,0 +1,9 @@
+{
+  "id": "big-thumbnails",
+  "name": "Big Thumbnails",
+  "description": "A very small css hack to convert mattermost thumbnails to something sexy for normal users. More details on https://projets.cap-rel.fr/projects/mattermost-big-thumbnails",
+  "version": "1.0.1",
+  "webapp": {
+    "bundle_path": "big-thumbnails.js"
+  }
+}
