@@ -2,9 +2,9 @@
 
 ## without plugin
 
-![Before](/images/before.jpg)
+![Before](./images/before.jpg)
 
 ## with this plugin
 
-![After](/images/after.jpg)
+![After](./images/after.jpg)
 
