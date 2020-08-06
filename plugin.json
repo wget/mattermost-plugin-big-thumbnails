@@ -4,8 +4,8 @@
     "description": "A very small css hack to convert mattermost thumbnails to something sexy for normal users. More details on https://projets.cap-rel.fr/projects/mattermost-big-thumbnails",
     "homepage_url": "https://projets.cap-rel.fr/projects/mattermost-big-thumbnails/wiki",
     "support_url": "https://projets.cap-rel.fr/projects/mattermost-big-thumbnails/issues",
-    "version": "1.0.2",
-    "min_server_version": "5.26.0",
+    "version": "1.0.3",
+    "min_server_version": "5.24.0",
     "webapp": {
 	"bundle_path": "big-thumbnails.js"
     }
